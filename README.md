@@ -3,7 +3,8 @@ Breakdown schets:
 
 
 
-Voortgang 1 (week 3)
+Voortgang 1 (week 3):
+
 Stand van zaken
 
 Ik vond het erg lastig omdat het best nog wel wennen was met dat flexbox om goede posities aantegeven van waar de flexbox moest staan en hoe dit echt goed in zijn werking ging. Daarbij vond ik het lastig om in het menu het logo te krijgen. En heb ik nog beter onderzocht en waar ik het kon toepassen als je een p + p bijvoorbeel doet in je css.
