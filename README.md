@@ -1,8 +1,14 @@
 <html>
 <body>
   
-  
-  
+<table>
+  <td>
+  <tr>hoi</tr>
+  <td>
+    <tr>hoi</tr>
+  <td>
+</table>
+
 <p>
 
 <h2>Voortgang 1 (week 3):</h2>
