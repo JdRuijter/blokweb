@@ -1,14 +1,11 @@
 <html>
-<body<
-
-<h1>Breakdown schets:</h1>
-
-<img src="img/breakdownschets.png" />
-
-
+<body>
+  
+  
+  
 <p>
 
-Voortgang 1 (week 3):
+<h2>Voortgang 1 (week 3):</h2>
 
 Stand van zaken
 
@@ -17,5 +14,10 @@ Ik vond het erg lastig omdat het best nog wel wennen was met dat flexbox om goed
 Vond het super leuk om te doen alleen zat al wel veel tijd in dat is waarom ik nog niet zo ver ben na mijn mening. En omdat bij anderen vakken ook allemaal deadlines waren deze week heb ik er wat minder tijd voor gehad.
 
 </p>
+
+<h1>Breakdown schets:</h1>
+
+<img src="img/breakdownschets.png" />
+
 </body>
 </html>
