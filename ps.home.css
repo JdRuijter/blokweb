@@ -1,0 +1,34 @@
+/* Nav */
+header{
+		position: sticky;
+		top: 0;
+		z-index: 10;
+	}
+
+nav ul {
+	display:flex;
+ 	justify-content:space-between;
+ 	background-color:white;
+ 	color:black;
+ 	list-style: none;
+}
+
+nav ul li:first-of-type{
+	width: 0px;
+
+}
+
+nav ul li:nth-of-type(2){
+	width: 0px;
+
+}
+
+nav ul li:nth-of-type(3){
+	margin-right: 0em;
+
+}
+
+#slider {
+	background-color: black;
+	height: 200px;
+}
